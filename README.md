@@ -79,3 +79,12 @@ English, Spanish, French, German, Italian, Portuguese, Russian, Japanese, Korean
 - Processing time depends on video length and hardware
 - GPU acceleration is used automatically if CUDA is available
 - FFmpeg must be installed and accessible in system PATH
+
+
+## Images
+<img src="file_upload.png" alt="File Upload" width="900">
+<img src="processing.png" alt="Processing" width="900">
+<img src="transcripted_video_subbed.png" alt="Transcripted and subbed video" width="900">
+<img src="transcription_text.png" alt="Transcription Text" width="900">
+<img src="time_line_segments.png" alt="Timeline Segments" width="900">
+<img src="download_video_or_subtitle.png" alt="Download Video & Subtitle" width="900">

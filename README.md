@@ -9,7 +9,7 @@ AI-powered video transcription application using Whisper large-v3-turbo model.
 - Manual language selection (14 languages supported)
 - Live subtitle display during video playback
 - Timeline-based segment navigation
-- Download video with embedded subtitles
+- Download Subtitle or video with embedded subtitles
 
 ## Requirements
 

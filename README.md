@@ -37,7 +37,7 @@ sudo apt install ffmpeg
 ```
 
 ### Step 2: Install Python Dependencies
-if you already have PyTorch installed, you can exclude torch in requirements.txt
+if you already have PyTorch installed, you can remove torch in requirements.txt
 ```bash
 pip install -r requirements.txt
 ```

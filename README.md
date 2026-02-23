@@ -23,7 +23,7 @@ AI-powered video transcription application using Whisper large-v3-turbo model.
 **Windows:**
 1. Download FFmpeg from https://ffmpeg.org/download.html
 2. Extract to C:\ffmpeg
-3. Add C:\ffmpeg\bin to your system PATH <br>
+3. Add C:\ffmpeg\bin to your system PATH <br><br>
 **or you can just put the ffmpeg.exe file in the project folder**
 
 **Mac:**

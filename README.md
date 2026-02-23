@@ -24,6 +24,7 @@ AI-powered video transcription application using Whisper large-v3-turbo model.
 1. Download FFmpeg from https://ffmpeg.org/download.html
 2. Extract to C:\ffmpeg
 3. Add C:\ffmpeg\bin to your system PATH
+**or you can just put the ffmpeg.exe file in the project folder**
 
 **Mac:**
 ```bash
@@ -36,7 +37,7 @@ sudo apt install ffmpeg
 ```
 
 ### Step 2: Install Python Dependencies
-
+if you already have PyTorch installed, you can exclude torch in requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
